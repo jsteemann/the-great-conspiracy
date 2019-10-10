@@ -3,7 +3,7 @@ conspire = function() {
     "docker", "ubuntu", "k8s", "json", "vst", "c#", "javascript", "collectd", 
     "sleep", "satellite collections", "gyp", "lto", "macos", "smart joins",  
     "el cheapo", "v8", "salat", "windows", "transactions", "oskar", "fuerte",
-    "ccache", "libmusl"
+    "ccache", "libmusl", "testing.js"
   ];
   let conspiracy = {};
   while (Object.keys(conspiracy).length < 3) {

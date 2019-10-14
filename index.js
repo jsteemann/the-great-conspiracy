@@ -4,7 +4,7 @@ conspire = function() {
     "sleep", "satellite collections", "gyp", "lto", "macos", "smart joins",  
     "el cheapo", "v8", "salat", "windows", "transactions", "oskar", "fuerte",
     "ccache", "libmusl", "testing.js","not spidermonkey","ccache", "libmusl", 
-    "testing.js","es2015","es2016","es2017","es2018","es2019","es2020"
+    "testing.js","es2015","es2016","es2017","es2018","es2019","es2020","utf8"
   ];
   let conspiracy = {};
   let ecma = false
